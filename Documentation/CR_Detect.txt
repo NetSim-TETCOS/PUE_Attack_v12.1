@@ -1,0 +1,8 @@
+Time to detect incumbent 2 by CPE2 is 9129741 microseconds 
+Time to detect incumbent 2 by CPE3 is 9129751 microseconds 
+Time to detect incumbent 1 by CPE2 is 24049741 microseconds 
+Time to detect incumbent 1 by CPE3 is 24049751 microseconds 
+Time to detect incumbent 1 by CPE2 is 38129741 microseconds 
+Time to detect incumbent 1 by CPE3 is 38129751 microseconds 
+Time to detect incumbent 2 by CPE2 is 45009741 microseconds 
+Time to detect incumbent 2 by CPE3 is 45009751 microseconds 
